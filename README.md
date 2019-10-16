@@ -87,4 +87,4 @@ Lembre-se: nós valorizamos a sua participação, mas, acima de tudo, valorizamo
 
 ## Atribuição:
 
-Este código de conduta é baseado no código de conduta da TEch && Beer 2019 que por sua vez está baseado no código de conduta JSConf US 2018, que por sua vez é baseada no código de conduta de JSConf EU, CSSConf/JSConf AU, The Geek Feminism wiki, no trabalho de Valerie Aurora, WeAllJS, Conference Code of Conduct e DevOpsDays PoA, Black&Brown Founders.
+Este código de conduta é baseado no código de conduta da Tech && Beer 2019 que por sua vez está baseado no código de conduta JSConf US 2018, que por sua vez é baseada no código de conduta de JSConf EU, CSSConf/JSConf AU, The Geek Feminism wiki, no trabalho de Valerie Aurora, WeAllJS, Conference Code of Conduct e DevOpsDays PoA, Black&Brown Founders.
